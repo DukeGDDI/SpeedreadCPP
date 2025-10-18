@@ -65,10 +65,7 @@ make clean
 
 ### 📊 Output Example
 
-```
-   v
-          The quick brown fox jumps over the lazy dog      350 wpm
-```
+![Sample of SpeedrunCPP](./doc/example.gif)
 
 At the end, you’ll see timing and performance stats like:
 
